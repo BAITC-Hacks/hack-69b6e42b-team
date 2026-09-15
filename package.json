@@ -1,0 +1,10 @@
+{
+  "name": "student-expenses",
+  "version": "1.0.0",
+  "description": "Учёт личных расходов студента — прототип для хакатона",
+  "private": true,
+  "scripts": {
+    "test": "node --test tests/logic.test.js",
+    "start": "npx --yes serve -l 5173 ."
+  }
+}
